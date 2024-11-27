@@ -1,62 +1,44 @@
 #EXTM3U
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png",ATN Bangla UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png",NTV UK
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SATV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",Nexus TV HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",Channel S UK HD
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",Somoy TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jamuna%20TV.jpeg",Jamuna TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png",News 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekhon%20TV.png",Ekhone TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg",Jago News 24
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png",Gaan Bangla
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National
 http://103.230.105.252:1935/live/btv/chunklist_w524649012.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
 #EXTINF:-1 group-title="BANGLA",RTV
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w2015195144.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png",RTV HD
@@ -65,15 +47,12 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=84&uid=3788&deviceMac=00:1A:79:6D:8A:C6
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png",CHANNEL 9 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=88&uid=10016&deviceMac=00:1A:79:20:6F:F3
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png",Btv World
 http://172.105.123.238:18002/play/a038
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga
@@ -82,20 +61,14 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://rb.gy/556lm5",Ekushey Tv
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/master.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/Nbw3bKO.png",Probashi Tv
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/dBbTPtQ/20240826-230616.png",SATV HD
-http://176.119.29.52/live.ts?channelId=114&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.ibb.co/kqF2kdy/20240826-230650.png",DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
-
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
 http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/V6q8yDDy/Star-Jalsha-HD.jpg",Star Jalsha HD
@@ -106,12 +79,6 @@ http://103.175.242.10:8080/starjalsha/index.m3u8
 http://xsmarters.top:8080/live/0966717777/0966717777/245898.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/QC6LfZkP/Zee-Bangla.jpg",Zee Bangla HD
 http://bapatv.live:8080/zeebangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/LsyGKzFC/Colors-Bangla-HD.jpg",Colors Bangla HD
-http://bapatv.live:8080/colorsbangla2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/qq07hbRM/Jalsha-Movies-HD.jpg",Jalsha Movies HD
-http://bapatv.live:8080/jalsamovies-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/DZkPVJfM/Zee-Bangla-Cinema.jpg",Zee Bangla Cinema
-http://bapatv.live:8080/zeebncinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/662vVv5x/ABP-Ananda.jpg",ABP Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/MZQcv8Hm/Bangla-Jago.jpg",Bangla Jago
@@ -122,485 +89,26 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/pWP5kZB/20240428-025953.jpg",Zee Bangla HD
-http://watchindia.net:8880/live/67913/97110/2283.ts
-#EXTINF:-1 group-title="Indian Bangla"  tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png",Colors Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/0cgX3Bx/image-search-1713979185077.png",Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
-#EXTINF:-1 group-title="Indian Bangla"  tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg",Entar 10 Bangla
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/zRKxWnm/image-search-1713980037798.jpg",Entar 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Indian Bangla"  tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png",Zee Bangla Cinema
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.ibb.co/j4P1g9P/IMG-20240430-064226.png",Zee Bangla Cinema
 http://tv.cloudcdn.me/live.ts?channelId=119&uid=15585&deviceMac=00:1A:79:D9:7F:BB
-#EXTINF:-1 group-title="Indian Bangla"  tvg-logo="https://i.ibb.co/42Yw1qR/IMG-20240320-115701.jpg",Kids cartoon
-https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 ,IN: SONY HD
-https://starshare.live:443/live/7382837374/5003958588/144.ts
-#EXTINF:-1 ,IN: SONY SAB HD
-https://starshare.live:443/live/7382837374/5003958588/145.ts
-#EXTINF:-1 ,IN: ZEE TV HD
-https://starshare.live:443/live/7382837374/5003958588/161.ts
-#EXTINF:-1 ,IN: STAR PLUS FHD
-https://starshare.live:443/live/7382837374/5003958588/167.ts
-#EXTINF:-1 ,IN: COLORS FHD
-https://starshare.live:443/live/7382837374/5003958588/195.ts
-#EXTINF:-1 ,IN: STAR BHARAT HD
-https://starshare.live:443/live/7382837374/5003958588/199.ts
-#EXTINF:-1 ,IN: COLOR HD
-https://starshare.live:443/live/7382837374/5003958588/219.ts
-#EXTINF:-1 ,IN: ZEE TV FHD
-https://starshare.live:443/live/7382837374/5003958588/220.ts
-#EXTINF:-1 ,IN: STAR PLUS HD
-https://starshare.live:443/live/7382837374/5003958588/221.ts
-#EXTINF:-1 ,IN: SONY TV HD
-https://starshare.live:443/live/7382837374/5003958588/224.ts
-#EXTINF:-1 ,IN: & TV HD
-https://starshare.live:443/live/7382837374/5003958588/232.ts
-#EXTINF:-1 ,IN: SONY (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9365.ts
-#EXTINF:-1 ,IN: STAR PLUS (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9366.ts
-#EXTINF:-1 ,IN: STAR BHARAT (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9367.ts
-#EXTINF:-1 ,IN: SAB (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9368.ts
-#EXTINF:-1 ,IN: &TV (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9369.ts
-#EXTINF:-1 ,IN: Colors (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9370.ts
-#EXTINF:-1 ,IN: ZEE TV (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9371.ts
-#EXTINF:-1 ,IN: STAR PLUS (4K).
-https://starshare.live:443/live/7382837374/5003958588/98849.ts
-#EXTINF:-1 ,IN: ZEETV (4K).
-https://starshare.live:443/live/7382837374/5003958588/98850.ts
-#EXTINF:-1 ,IN: COLORS (4K).
-https://starshare.live:443/live/7382837374/5003958588/98851.ts
-#EXTINF:-1 ,IN: &TV (4K).
-https://starshare.live:443/live/7382837374/5003958588/98852.ts
-#EXTINF:-1 ,IN: SONY SAB (4K).
-https://starshare.live:443/live/7382837374/5003958588/98853.ts
-#EXTINF:-1 ,IN: SONY (4K).
-https://starshare.live:443/live/7382837374/5003958588/98854.ts
-#EXTINF:-1 ,IN: STAR BHARAT (4K).
-https://starshare.live:443/live/7382837374/5003958588/98855.ts
-#EXTINF:-1 ,IN: SONY MAX HD
-https://starshare.live:443/live/7382837374/5003958588/151.ts
-#EXTINF:-1 ,IN: STAR GOLD HD
-https://starshare.live:443/live/7382837374/5003958588/194.ts
-#EXTINF:-1 ,IN: STAR GOLD SELECT HD
-https://starshare.live:443/live/7382837374/5003958588/210.ts
-#EXTINF:-1 ,IN: ZEE CINEMA HD
-https://starshare.live:443/live/7382837374/5003958588/230.ts
-#EXTINF:-1 ,IN: & PICTURES HD
-https://starshare.live:443/live/7382837374/5003958588/231.ts
-#EXTINF:-1 ,IN: CINEPLEX HD
-https://starshare.live:443/live/7382837374/5003958588/867.ts
-#EXTINF:-1 ,IN: B FLIX
-https://starshare.live:443/live/7382837374/5003958588/4081.ts
-#EXTINF:-1 ,IN: &XPLOR (4K)
-https://starshare.live:443/live/7382837374/5003958588/4082.ts
-#EXTINF:-1 ,IN: MOVIES ACTIVE HD D2H
-https://starshare.live:443/live/7382837374/5003958588/7336.ts
-#EXTINF:-1 ,IN: SONY MAX (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9373.ts
-#EXTINF:-1 ,IN: Star GOLD (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9375.ts
-#EXTINF:-1 ,IN: Star Gold SELECT (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9376.ts
-#EXTINF:-1 ,IN: Colors Cineplex (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9378.ts
-#EXTINF:-1 ,IN: MBC BOLLYWOOD (FHD)
-https://starshare.live:443/live/7382837374/5003958588/20512.ts
-#EXTINF:-1 ,IN: & XPLOR (FHD)
-https://starshare.live:443/live/7382837374/5003958588/20648.ts
-#EXTINF:-1 ,IN: MINIPLEX (FHD)
-https://starshare.live:443/live/7382837374/5003958588/23427.ts
-#EXTINF:-1 ,IN: Colors Cineplex Bollywood
-https://starshare.live:443/live/7382837374/5003958588/37074.ts
-#EXTINF:-1 ,IN: &PICTURE (4K).
-https://starshare.live:443/live/7382837374/5003958588/98856.ts
-#EXTINF:-1 ,IN: SONY MAX (4K).
-https://starshare.live:443/live/7382837374/5003958588/98857.ts
-#EXTINF:-1 ,IN: STAR GOLD (4K).
-https://starshare.live:443/live/7382837374/5003958588/98858.ts
-#EXTINF:-1 ,IN: STAR GOLD SELECT (4K).
-https://starshare.live:443/live/7382837374/5003958588/98859.ts
-#EXTINF:-1 ,IN: ZEE CINEMA (4K).
-https://starshare.live:443/live/7382837374/5003958588/98860.ts
-#EXTINF:-1 ,IN: Colors Cineplex (4K).
-https://starshare.live:443/live/7382837374/5003958588/98908.ts
-#EXTINF:-1 ,IN: STAR GOLD 2 (4K)
-https://starshare.live:443/live/7382837374/5003958588/157081.ts
-#EXTINF:-1 ,IN: COLORS CINEPLEX SUPERHITS
-https://starshare.live:443/live/7382837374/5003958588/172368.ts
-#EXTINF:-1 ,IN: SONY PIX HD
-https://starshare.live:443/live/7382837374/5003958588/147.ts
-#EXTINF:-1 ,IN: FYI TV18 HD
-https://starshare.live:443/live/7382837374/5003958588/152.ts
-#EXTINF:-1 ,IN: MN PLUS
-https://starshare.live:443/live/7382837374/5003958588/178.ts
-#EXTINF:-1 ,IN: ROMEDY NOW HD
-https://starshare.live:443/live/7382837374/5003958588/179.ts
-#EXTINF:-1 ,IN: HBO 2 HD
-https://starshare.live:443/live/7382837374/5003958588/185.ts
-#EXTINF:-1 ,IN: COMEDY CENTRAL HD
-https://starshare.live:443/live/7382837374/5003958588/186.ts
-#EXTINF:-1 ,IN: COLORS INFINITY HD
-https://starshare.live:443/live/7382837374/5003958588/187.ts
-#EXTINF:-1 ,IN: MNX HD
-https://starshare.live:443/live/7382837374/5003958588/191.ts
-#EXTINF:-1 ,IN: ZEECAFE HD
-https://starshare.live:443/live/7382837374/5003958588/196.ts
-#EXTINF:-1 ,IN: & PRIVE HD
-https://starshare.live:443/live/7382837374/5003958588/201.ts
-#EXTINF:-1 ,IN: STAR MOVIES SELECT HD
-https://starshare.live:443/live/7382837374/5003958588/218.ts
-#EXTINF:-1 ,IN: & FLIX HD
-https://starshare.live:443/live/7382837374/5003958588/253.ts
-#EXTINF:-1 ,IN: STAR MOVIES HD
-https://starshare.live:443/live/7382837374/5003958588/979.ts
-#EXTINF:-1 ,IN: STAR LIFE
-https://starshare.live:443/live/7382837374/5003958588/2115.ts
-#EXTINF:-1 ,IN: & PRIVE (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9379.ts
-#EXTINF:-1 ,IN: SONY PIX (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9381.ts
-#EXTINF:-1 ,IN: MN+ (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9383.ts
-#EXTINF:-1 ,IN: STAR MOVIES (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9384.ts
-#EXTINF:-1 ,IN: STAR Life (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9387.ts
-#EXTINF:-1 ,IN: TLC (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9388.ts
-#EXTINF:-1 ,IN: ZEE Cafe (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9389.ts
-#EXTINF:-1 ,IN: Colors INFINITY (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9390.ts
-#EXTINF:-1 ,IN: STAR MOVIES SELECT (FHD)
-https://starshare.live:443/live/7382837374/5003958588/23270.ts
-#EXTINF:-1 ,IN: MNX (4K)
-https://starshare.live:443/live/7382837374/5003958588/23428.ts
-#EXTINF:-1 ,IN: COMEDY-CENTRAL (FHD)
-https://starshare.live:443/live/7382837374/5003958588/23429.ts
-#EXTINF:-1 ,IN: &PRIVE (4K).
-https://starshare.live:443/live/7382837374/5003958588/98840.ts
-#EXTINF:-1 ,IN: &FLIX (4K).
-https://starshare.live:443/live/7382837374/5003958588/98841.ts
-#EXTINF:-1 ,IN: STAR MOVIE (4K).
-https://starshare.live:443/live/7382837374/5003958588/98842.ts
-#EXTINF:-1 ,IN: STAR MOVIE SELECT (4K).
-https://starshare.live:443/live/7382837374/5003958588/98843.ts
-#EXTINF:-1 ,IN: SONY PIX (4K).
-https://starshare.live:443/live/7382837374/5003958588/98846.ts
-#EXTINF:-1 ,IN: MN+ (4K).
-https://starshare.live:443/live/7382837374/5003958588/98847.ts
-#EXTINF:-1 ,IN: ZEE CAFE (4K).
-https://starshare.live:443/live/7382837374/5003958588/98848.ts
-#EXTINF:-1 ,IN: TLC (4K).
-https://starshare.live:443/live/7382837374/5003958588/98878.ts
-#EXTINF:-1 ,IN: Colors INFINITY (4K).
-https://starshare.live:443/live/7382837374/5003958588/98879.ts
-#EXTINF:-1 ,IN: AXN (4K).
-https://starshare.live:443/live/7382837374/5003958588/98915.ts
-#EXTINF:-1 ,IN: Cinema World HD
-https://starshare.live:443/live/7382837374/5003958588/152369.ts
-#EXTINF:-1 ,IN: Rock Entertainment HD
-https://starshare.live:443/live/7382837374/5003958588/152370.ts
-#EXTINF:-1 ,IN: CINEMAX HD
-https://starshare.live:443/live/7382837374/5003958588/152371.ts
-#EXTINF:-1 ,IN: HBO Hits HD
-https://starshare.live:443/live/7382837374/5003958588/152372.ts
-#EXTINF:-1 ,IN: HBO HD
-https://starshare.live:443/live/7382837374/5003958588/152373.ts
-#EXTINF:-1 ,IN: Movies Now (4K)
-https://starshare.live:443/live/7382837374/5003958588/152387.ts
-#EXTINF:-1 ,IN: DISCOVERY WORLD HD
-https://starshare.live:443/live/7382837374/5003958588/156.ts
-#EXTINF:-1 ,IN: SONY BBC EARTH HD (ENG)
-https://starshare.live:443/live/7382837374/5003958588/174.ts
-#EXTINF:-1 ,IN: HISTORY HD
-https://starshare.live:443/live/7382837374/5003958588/180.ts
-#EXTINF:-1 ,IN: TRAVEL XP HD (HINDI)
-https://starshare.live:443/live/7382837374/5003958588/181.ts
-#EXTINF:-1 ,IN: ANIMAL PLANET HD
-https://starshare.live:443/live/7382837374/5003958588/182.ts
-#EXTINF:-1 ,IN: SONY BBC EARTH HD (ENGLISH)
-https://starshare.live:443/live/7382837374/5003958588/190.ts
-#EXTINF:-1 ,IN: TRAVEL XP HD
-https://starshare.live:443/live/7382837374/5003958588/1623.ts
-#EXTINF:-1 ,IN: HISTORY 18 (HINDI)
-https://starshare.live:443/live/7382837374/5003958588/5252.ts
-#EXTINF:-1 ,IN: NATIONAL GEOGRAPHIC INDIA
-https://starshare.live:443/live/7382837374/5003958588/7342.ts
-#EXTINF:-1 ,IN: NATIONAL GEOGRAPHIC
-https://starshare.live:443/live/7382837374/5003958588/7343.ts
-#EXTINF:-1 ,IN: NATGEO WILD HD
-https://starshare.live:443/live/7382837374/5003958588/7344.ts
-#EXTINF:-1 ,IN: SONY BBC EARTH HD (HINDI)
-https://starshare.live:443/live/7382837374/5003958588/7721.ts
-#EXTINF:-1 ,IN: ANIMAL PLANET (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9391.ts
-#EXTINF:-1 ,IN: HISTORY TV (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9392.ts
-#EXTINF:-1 ,IN: DISCOVERY (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9393.ts
-#EXTINF:-1 ,IN: National GEO (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9394.ts
-#EXTINF:-1 ,IN: NAT Geo Wild (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9395.ts
-#EXTINF:-1 ,IN: Sony BBC EARTH (FHD)
-https://starshare.live:443/live/7382837374/5003958588/9396.ts
-#EXTINF:-1 ,IN: Sony BBC EARTH (4K).
-https://starshare.live:443/live/7382837374/5003958588/98871.ts
-#EXTINF:-1 ,IN: DISCOVERY (4K).
-https://starshare.live:443/live/7382837374/5003958588/98872.ts
-#EXTINF:-1 ,IN: ANIMAL PLANET (4K).
-https://starshare.live:443/live/7382837374/5003958588/98873.ts
-#EXTINF:-1 ,IN: National GEO (4K).
-https://starshare.live:443/live/7382837374/5003958588/98874.ts
-#EXTINF:-1 ,IN: NAT Geo Wild (4K).
-https://starshare.live:443/live/7382837374/5003958588/98875.ts
-#EXTINF:-1 ,IN: STAR LIFE (4K).
-https://starshare.live:443/live/7382837374/5003958588/98876.ts
-#EXTINF:-1 ,IN: HISTORY TV (4K).
-https://starshare.live:443/live/7382837374/5003958588/98877.ts
-#EXTINF:-1 ,24/7 Doc: Our_Planet_&_Animal
-https://starshare.live:443/live/7382837374/5003958588/121317.ts
-#EXTINF:-1 ,24/7 Doc: Cutest Animals_Dangerous Animals_ Asia_&_ Latin America
-https://starshare.live:443/live/7382837374/5003958588/121318.ts
-#EXTINF:-1 ,24/7 Doc: Planet_earth_Season_1_&_2
-https://starshare.live:443/live/7382837374/5003958588/121328.ts
-#EXTINF:-1 ,24/7 Doc: Absurd Planet_Night on Earth_Our Great National Parks
-https://starshare.live:443/live/7382837374/5003958588/121338.ts
-#EXTINF:-1 ,TravelXp HD (ENG)
-https://starshare.live:443/live/7382837374/5003958588/143205.ts
-#EXTINF:-1 ,IN: MTV BEATS HD
-https://starshare.live:443/live/7382837374/5003958588/153.ts
-#EXTINF:-1 ,IN : B4U Plus
-https://starshare.live:443/live/7382837374/5003958588/969.ts
-#EXTINF:-1 ,IN: Zing TV
-https://starshare.live:443/live/7382837374/5003958588/970.ts
-#EXTINF:-1 ,IN: MTV HD PLUS
-https://starshare.live:443/live/7382837374/5003958588/4029.ts
-#EXTINF:-1 ,IN: 9XM
-https://starshare.live:443/live/7382837374/5003958588/7255.ts
-#EXTINF:-1 ,IN: Mastiii
-https://starshare.live:443/live/7382837374/5003958588/7256.ts
-#EXTINF:-1 ,IN: B4U Music
-https://starshare.live:443/live/7382837374/5003958588/7258.ts
-#EXTINF:-1 ,IN: 9X Jalwa HD
-https://starshare.live:443/live/7382837374/5003958588/9057.ts
-#EXTINF:-1 ,IN: Zoom
-https://starshare.live:443/live/7382837374/5003958588/9488.ts
-#EXTINF:-1 ,IN: MTV HD Plus (FHD)
-https://starshare.live:443/live/7382837374/5003958588/23791.ts
-#EXTINF:-1 ,IN: MTV Beats (4K)
-https://starshare.live:443/live/7382837374/5003958588/23792.ts
-#EXTINF:-1 ,IN: MTV Beats HD.
-https://starshare.live:443/live/7382837374/5003958588/94498.ts
-#EXTINF:-1 ,IN: MTV Plus (4K)
-https://starshare.live:443/live/7382837374/5003958588/94499.ts
-#EXTINF:-1 ,MTV FHD (HINDI)
-https://starshare.live:443/live/7382837374/5003958588/130045.ts
-#EXTINF:-1 ,IN: NDTV 24x7
-https://starshare.live:443/live/7382837374/5003958588/247.ts
-#EXTINF:-1 ,IN: NEWS 18 INDIA
-https://starshare.live:443/live/7382837374/5003958588/2436.ts
-#EXTINF:-1 ,IN:  DD News (4K)
-https://starshare.live:443/live/7382837374/5003958588/4043.ts
-#EXTINF:-1 ,IN:  Aaj_Tak
-https://starshare.live:443/live/7382837374/5003958588/5409.ts
-#EXTINF:-1 ,IN: Zee Rajasthan news
-https://starshare.live:443/live/7382837374/5003958588/7063.ts
-#EXTINF:-1 ,IN: Zee News
-https://starshare.live:443/live/7382837374/5003958588/7259.ts
-#EXTINF:-1 ,IN:  ABP NEWS
-https://starshare.live:443/live/7382837374/5003958588/7260.ts
-#EXTINF:-1 ,IN: NDTV INDIA
-https://starshare.live:443/live/7382837374/5003958588/7430.ts
-#EXTINF:-1 ,IN: India news
-https://starshare.live:443/live/7382837374/5003958588/7431.ts
-#EXTINF:-1 ,IN: News18 News UP
-https://starshare.live:443/live/7382837374/5003958588/7435.ts
-#EXTINF:-1 ,IN: News18 India (News)
-https://starshare.live:443/live/7382837374/5003958588/7436.ts
-#EXTINF:-1 ,IN: NDTV Profit (news)
-https://starshare.live:443/live/7382837374/5003958588/7437.ts
-#EXTINF:-1 ,IN: Good news TV
-https://starshare.live:443/live/7382837374/5003958588/9041.ts
-#EXTINF:-1 ,IN:Republic TV (English)
-https://starshare.live:443/live/7382837374/5003958588/9056.ts
-#EXTINF:-1 ,IN: Republic TV HD
-https://starshare.live:443/live/7382837374/5003958588/9080.ts
-#EXTINF:-1 ,IN: CNBC Awaaz (News) HD
-https://starshare.live:443/live/7382837374/5003958588/9116.ts
-#EXTINF:-1 ,IN: CNBC Tv 18 (News)
-https://starshare.live:443/live/7382837374/5003958588/9117.ts
-#EXTINF:-1 ,IN: WION TV
-https://starshare.live:443/live/7382837374/5003958588/9481.ts
-#EXTINF:-1 ,IN: Zee MP (News)
-https://starshare.live:443/live/7382837374/5003958588/9725.ts
-#EXTINF:-1 ,IN: 1st India (News)
-https://starshare.live:443/live/7382837374/5003958588/9974.ts
-#EXTINF:-1 ,IN:  India TV NEWS
-https://starshare.live:443/live/7382837374/5003958588/23247.ts
-#EXTINF:-1 ,IN:  India News
-https://starshare.live:443/live/7382837374/5003958588/23248.ts
-#EXTINF:-1 ,IN: AAJTAK (4K)
-https://starshare.live:443/live/7382837374/5003958588/23795.ts
-#EXTINF:-1 ,IN: Zee Business (News)
-https://starshare.live:443/live/7382837374/5003958588/23938.ts
-#EXTINF:-1 ,SADHNA TV
-https://starshare.live:443/live/7382837374/5003958588/25076.ts
-#EXTINF:-1 ,IN: INDIA TODAY (News)
-https://starshare.live:443/live/7382837374/5003958588/35714.ts
-#EXTINF:-1 ,IN: News18 Rajasthan
-https://starshare.live:443/live/7382837374/5003958588/37071.ts
-#EXTINF:-1 ,Times Now World HD
-https://starshare.live:443/live/7382837374/5003958588/124897.ts
-#EXTINF:-1 ,IN: TimesNow NavaBharat HD
-https://starshare.live:443/live/7382837374/5003958588/155585.ts
-#EXTINF:-1 ,IN: GNT NEWS
-https://starshare.live:443/live/7382837374/5003958588/156011.ts
-#EXTINF:-1 ,IN: Zee Anmol
-https://starshare.live:443/live/7382837374/5003958588/203.ts
-#EXTINF:-1 ,IN : Colors Rishtey TV
-https://starshare.live:443/live/7382837374/5003958588/241.ts
-#EXTINF:-1 ,IN: Food Food
-https://starshare.live:443/live/7382837374/5003958588/250.ts
-#EXTINF:-1 ,IN: ZEE Bollywood
-https://starshare.live:443/live/7382837374/5003958588/966.ts
-#EXTINF:-1 ,IN: Zee Action
-https://starshare.live:443/live/7382837374/5003958588/967.ts
-#EXTINF:-1 ,IN : B4U Movies
-https://starshare.live:443/live/7382837374/5003958588/968.ts
-#EXTINF:-1 ,IN: STAR GOLD ROMANCE
-https://starshare.live:443/live/7382837374/5003958588/972.ts
-#EXTINF:-1 ,IN: SONY MAX 2
-https://starshare.live:443/live/7382837374/5003958588/973.ts
-#EXTINF:-1 ,IN: MANORANJAN TV
-https://starshare.live:443/live/7382837374/5003958588/2433.ts
-#EXTINF:-1 ,IN: MANORANJAN MOVIES
-https://starshare.live:443/live/7382837374/5003958588/2434.ts
-#EXTINF:-1 ,IN: STAR PLUS
-https://starshare.live:443/live/7382837374/5003958588/3744.ts
-#EXTINF:-1 ,IN:  DD National HD
-https://starshare.live:443/live/7382837374/5003958588/4037.ts
-#EXTINF:-1 ,IN:  DD Bihar
-https://starshare.live:443/live/7382837374/5003958588/4038.ts
-#EXTINF:-1 ,IN: DD India
-https://starshare.live:443/live/7382837374/5003958588/4039.ts
-#EXTINF:-1 ,IN: DD Bharati
-https://starshare.live:443/live/7382837374/5003958588/4040.ts
-#EXTINF:-1 ,IN:  DD Kashir
-https://starshare.live:443/live/7382837374/5003958588/4041.ts
-#EXTINF:-1 ,IN: DD Kisan
-https://starshare.live:443/live/7382837374/5003958588/4042.ts
-#EXTINF:-1 ,IN:  DD Sports (4K)
-https://starshare.live:443/live/7382837374/5003958588/4044.ts
-#EXTINF:-1 ,IN:  DD India
-https://starshare.live:443/live/7382837374/5003958588/4045.ts
-#EXTINF:-1 ,IN:  DD Uttar Pradesh
-https://starshare.live:443/live/7382837374/5003958588/4048.ts
-#EXTINF:-1 ,IN:  DD Sahayadri
-https://starshare.live:443/live/7382837374/5003958588/4050.ts
-#EXTINF:-1 ,IN: Zee Salam
-https://starshare.live:443/live/7382837374/5003958588/4065.ts
-#EXTINF:-1 ,IN: SONY WAH
-https://starshare.live:443/live/7382837374/5003958588/4077.ts
-#EXTINF:-1 ,IN: EPIC HD
-https://starshare.live:443/live/7382837374/5003958588/4085.ts
-#EXTINF:-1 ,IN: Star_Gold_2
-https://starshare.live:443/live/7382837374/5003958588/4324.ts
-#EXTINF:-1 ,IN: Discovery Science Hindi
-https://starshare.live:443/live/7382837374/5003958588/4745.ts
-#EXTINF:-1 ,IN:  Animal_Planet_Hindi
-https://starshare.live:443/live/7382837374/5003958588/5249.ts
-#EXTINF:-1 ,IN:  Discovery_Channel_Hindi
-https://starshare.live:443/live/7382837374/5003958588/5250.ts
-#EXTINF:-1 ,IN: Sony Pal
-https://starshare.live:443/live/7382837374/5003958588/6627.ts
-#EXTINF:-1 ,IN: Zee Classic
-https://starshare.live:443/live/7382837374/5003958588/7064.ts
-#EXTINF:-1 ,IN: Zee Anmol Cinema
-https://starshare.live:443/live/7382837374/5003958588/7065.ts
-#EXTINF:-1 ,IN: India TV
-https://starshare.live:443/live/7382837374/5003958588/7432.ts
-#EXTINF:-1 ,IN: UTV Bindass
-https://starshare.live:443/live/7382837374/5003958588/7433.ts
-#EXTINF:-1 ,IN: Zee Hindustan
-https://starshare.live:443/live/7382837374/5003958588/7720.ts
-#EXTINF:-1 ,IN: E24
-https://starshare.live:443/live/7382837374/5003958588/9487.ts
-#EXTINF:-1 ,IN: SONY HD
-https://starshare.live:443/live/7382837374/5003958588/9885.ts
-#EXTINF:-1 ,IN: Food Food
-https://starshare.live:443/live/7382837374/5003958588/9975.ts
-#EXTINF:-1 ,IN: INVESTIGATION DISCOVERY (4K)
-https://starshare.live:443/live/7382837374/5003958588/23790.ts
-#EXTINF:-1 ,IN:  Discovery Turbo
-https://starshare.live:443/live/7382837374/5003958588/23917.ts
-#EXTINF:-1 ,DANGAL
-https://starshare.live:443/live/7382837374/5003958588/53107.ts
-#EXTINF:-1 ,IN: Dhinchaak
-https://starshare.live:443/live/7382837374/5003958588/77143.ts
-#EXTINF:-1 ,IN: Star Utsav
-https://starshare.live:443/live/7382837374/5003958588/158970.ts
-#EXTINF:-1 ,IN: Zee Zest HD
-https://starshare.live:443/live/7382837374/5003958588/380446.ts
-#EXTINF:-1 ,IN: Colors HD +1 (4K)
-https://starshare.live:443/live/7382837374/5003958588/382330.ts
-#EXTINF:-1 ,IN: STAR PLUS +1 (4K)
-https://starshare.live:443/live/7382837374/5003958588/394273.ts
-#EXTINF:-1 ,IN: Zee Cinema HD +1
-https://starshare.live:443/live/7382837374/5003958588/380449.ts
-#EXTINF:-1 ,IN: GOOD TiMES
-https://starshare.live:443/live/7382837374/5003958588/298451.ts
-#EXTINF:-1 ,Tata Play Zindgi
-https://starshare.live:443/live/7382837374/5003958588/108882.ts
-#EXTINF:-1 ,Tata Play Hits
-https://starshare.live:443/live/7382837374/5003958588/108881.ts
-#EXTINF:-1 ,Tata Play Classic Cinema
-https://starshare.live:443/live/7382837374/5003958588/52496.ts
-#EXTINF:-1 ,Tata Play Romance
-https://starshare.live:443/live/7382837374/5003958588/44219.ts
-#EXTINF:-1 ,Tata Play Fitness
-https://starshare.live:443/live/7382837374/5003958588/108880.ts
-#EXTINF:-1 ,Telugu Classics
-https://starshare.live:443/live/7382837374/5003958588/108875.ts
-#EXTINF:-1 ,Tata Play Bollywood Masala
-https://starshare.live:443/live/7382837374/5003958588/108874.ts
-#EXTINF:-1 ,Tata Play Hollywood Local
-https://starshare.live:443/live/7382837374/5003958588/108876.ts
-#EXTINF:-1 ,Tata Play South Talkies
-https://starshare.live:443/live/7382837374/5003958588/108878.ts
-
-
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",T SPORTS
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:ED:10:29
-
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA Sports BD VS AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket Backup
 http://starshare.live:8080/live/Habib/Habib/2494.ts
-
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket
 http://starshare.live:8080/live/Habib/Habib/158442.m3u8
-
-
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",Bein Sports 6
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/904
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png",Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373199&extension=ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD
-http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://gateway.prd.sky.ch/imageapi/utils/s3path?param=%7B%22path%22%3A%22img%2Fmoviecover%2Fch%2Fimages%2Fchannel%2F363.png%22%2C%22format%22%3A%22webp%22%2C%22quality%22%3A80%7D",Sky Sports Premier League
-https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://devcdn.24.co.za/files/supersport/203.svg",SuperSport Premier League
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 3
@@ -618,10 +126,6 @@ http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/11606.ts
 http://tv.cloudcdn.me/live.ts?channelId=91159&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://hdviptv.net:8080/ismailcanakci/pbmw40QRtn/4758
 https://cricfyranahin.xyz/nontu/bee.m3u8?TNT_Sports_1
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",5
-https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://play-lh.googleusercontent.com/6TCr5szXcTESwKroTFZJTmLPGKJUZI0_zkVnkHCtUmxICZS_MNsZ867F3kATvFzoVrw",DD SPORTS HD
-http://172.105.123.238:18002/play/a03d
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png",Tennis Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=124665&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1 HD
@@ -630,34 +134,18 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
-https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.png",Discovery Science
-https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://v.fastcdn.co/t/ce0680fc/05c22bcb/1709567857-50673365-959x267x959x540x0x137-WEATHERSPY-LOGO-WHIT.png",Weather Spy
-https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png",HGTV
-https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png",DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Zee_Zest.png/revision/latest?cb=20240321084231",Zee Zest HD
 http://tv.cloudcdn.me/live.ts?channelId=29704&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
-https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images-removebg-preview.png",Xplore TV
 https://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/4ktravel_960X540-removebg-preview.png",4K Travel Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/featuredImage-removebg-preview.png",Pluto Tv Travel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b69-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=285c5e14-2bb7-45ce-b0e7-4869bb438d35
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://png.pngtree.com/png-vector/20230224/ourmid/pngtree-kitchen-logo-png-image_6615814.png",Cook & Bake
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cook-and-bake/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bon_App%C3%A9tit_logo.svg/320px-Bon_App%C3%A9tit_logo.svg.png",Bon Appétit
@@ -666,22 +154,10 @@ https://bonappetit-samsung.amagi.tv/playlist.m3u8
 https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ABP_Ananda_logo.svg/1200px-ABP_Ananda_logo.svg.png",Abp Ananda
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Tv9bangla.png/revision/latest/scale-to-width-down/280?cb=20210509173815",TV9 Bangla
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Calcutta_news.png/revision/latest/scale-to-width-down/150?cb=20240324141315",CALCUTTA news
-https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/News18_bangla.png/revision/latest?cb=20210509143000",News18 Bangla
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/49/RPlus_24x7_News_logo_%282016%29.png/revision/latest?cb=20211209093649",R Plus News
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Banglajago_TV_logo_%282015%29.png/revision/latest?cb=20210429041222",Bangla Jago TV
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Sananda_News_HD_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20210428083525",Sananda News
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=mm1rga1c
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png",Aaj Tak
-https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png",Republic Bharat
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/CNN_News_18.svg/revision/latest/scale-to-width-down/284?cb=20210207181916",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg",ABP News
@@ -700,35 +176,17 @@ https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Aw
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/DD_News_New_Logo.png",DD NEWS
 http://172.105.123.238:18002/play/a002
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310",News Nation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://firstindianews.com/images/logo.png",1st India News
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://indianews.in/wp-content/uploads/2021/08/LOGO.png",India News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-news/index.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg",K News India
-https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
 https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png",Sansad TV
-https://hls.media.nic.in/live/lstv-360p/index.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.logoeps.net/wp-content/uploads/2016/12/al-jazeera-logo.png",AL Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg",NBC News
 http://tv.cloudcdn.me:80/live.ts?channelId=127140&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/1280px-MSNBC_2015-2021_logo.svg.png",MSNBC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=855331&extension=ts
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png",TRT World
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/766px-WION_news_Logo.svg.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png",Global News (Canada)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/328f4948534229.Y3JvcCw2NTksNTE2LDAsNzY.png",92 News HD
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png",Lahore News
-https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950",CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
