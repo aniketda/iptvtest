@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://noatube.com/upload/1735207293-BPL-Live-Thum.jpg" group-title="SPORTS", TsportsHD
+https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/liwwKVRdgiHSlGYbMFwiPK7EvKmPVauVtNUhNvirfuM34lACVpE2VTET14ToHMGlZ5s5kZ7GDgYc9JnpF6vPmA/transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES
 
 #EXTINF:-1 tvg-logo="https://kala-bilay.vercel.app/logo/T%20Sports%20HD.jpg" group-title="Sports", T Sports HD
 https://kala-bilay.netlify.app/NeonXByte/Sports/TsportsHD.m3u8
