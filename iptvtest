@@ -37,17 +37,8 @@ https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg",DEPTO BANGLA HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://buddytv.netlify.app/img/no-logo.png",Deptto TV
-https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8?v=1
-#EXTINF:-1 ,Deepto TV
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 ,Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 ,Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
